@@ -1,0 +1,1 @@
+Some files for git and github educational purposes 
